@@ -16,7 +16,7 @@ const Projects = () => {
 
           <   h5>Smart Ticketing System</h5>
               <p>
-                Website Which can Book e-tickets in MTC BUS 
+                Website Which can Book e-tickets in MTC Bus.
               </p>
           </div>
         </section>
